@@ -1,0 +1,14 @@
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\bin\Debug\netcoreapp3.1\Exceçoes.exe
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\bin\Debug\netcoreapp3.1\Exceçoes.deps.json
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\bin\Debug\netcoreapp3.1\Exceçoes.runtimeconfig.json
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\bin\Debug\netcoreapp3.1\Exceçoes.runtimeconfig.dev.json
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\bin\Debug\netcoreapp3.1\Exceçoes.dll
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\bin\Debug\netcoreapp3.1\Exceçoes.pdb
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.csproj.AssemblyReference.cache
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.AssemblyInfoInputs.cache
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.AssemblyInfo.cs
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.csproj.CoreCompileInputs.cache
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.dll
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.pdb
+C:\Users\emell\Videos\Exercicio de Metodos\Exceçoes\Exceçoes\obj\Debug\netcoreapp3.1\Exceçoes.genruntimeconfig.cache
